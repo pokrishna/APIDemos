@@ -24,6 +24,8 @@ from rest_framework import generics
 # Hai
 # Hai
 
+#updated from Git Examples
+
 class TestAPIView2(APIView):
     def get(self,request,format=None):
         qs=Employee.objects.all()
