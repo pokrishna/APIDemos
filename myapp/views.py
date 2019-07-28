@@ -27,9 +27,17 @@ from rest_framework import generics
 
 # Hai it is updated by ApiDemos
 
+<<<<<<< HEAD
 #updated from Git Examples
 
 #Updates from master branch
+=======
+
+# B-Brancch Changes1
+
+# B-Brancch Changes2
+
+>>>>>>> Bbranch
 
 class TestAPIView2(APIView):
     def get(self,request,format=None):
