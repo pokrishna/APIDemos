@@ -24,11 +24,12 @@ from rest_framework import generics
 # Hai
 # Hai
 
-<<<<<<< HEAD
+
 # Hai it is updated by ApiDemos
-=======
+
 #updated from Git Examples
->>>>>>> 61e78b1a11bf00b5dcd768f049f92d3301b2e969
+
+#Updates from master branch
 
 class TestAPIView2(APIView):
     def get(self,request,format=None):
