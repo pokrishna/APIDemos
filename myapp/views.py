@@ -19,9 +19,26 @@ from rest_framework.response import Response
 from rest_framework import viewsets
 from rest_framework import generics
 
+<<<<<<< HEAD
 # new updations form the krishna
 # some one has edited this file bro
 # keep track of all the file right
+=======
+
+#from B branch iam doing some changes
+# please take care of it
+# Hai Small update and github
+# Hai
+# Hai
+# Hai
+
+# Hai it is updated by ApiDemos
+
+# 
+# B-Brancch Changes1
+
+# B-Brancch Changes2
+>>>>>>> Bbranch
 
 
 class TestAPIView2(APIView):
